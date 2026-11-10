@@ -98,22 +98,6 @@ Interactive documentation is available at `/scalar/v1` when the API is running.
 
 ---
 
-## 🚀 Live Demo
-
-- **Customer site:** [keen-playfulness-production-7327.up.railway.app](https://keen-playfulness-production-7327.up.railway.app/)
-- **Demo credentials:**
-  - **Email:** `kidom21138@iconcubic.com`
-  - **Password:** `123456789`
->Open the same session in two browser tabs (as two different users) to see seats lock in real time.
-- **Admin panel:** [/admin](https://keen-playfulness-production-7327.up.railway.app/admin)
-- **Demo credentials:**
-  - **Login:** `admin`
-  - **Password:** `ChangeMe123!`
-
->This is a public demo environment with sample data — feel free to register, book tickets, and add, edit, or delete records. Everything resets periodically. It runs on a free tier, so the first request after a period of inactivity can be slow.
-
----
-
 ## 🏃 Running locally
 
 **Prerequisites:** .NET 10 SDK, PostgreSQL 16+
